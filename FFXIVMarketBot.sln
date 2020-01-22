@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFXIVMarketBot", "FFXIVMarketBot\FFXIVMarketBot.csproj", "{241ABDA8-74C2-4777-B81B-25261DBC1BD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241ABDA8-74C2-4777-B81B-25261DBC1BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241ABDA8-74C2-4777-B81B-25261DBC1BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241ABDA8-74C2-4777-B81B-25261DBC1BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241ABDA8-74C2-4777-B81B-25261DBC1BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {622FAFAA-B5F1-4C89-A129-D12F116ACAC3}
+	EndGlobalSection
+EndGlobal
